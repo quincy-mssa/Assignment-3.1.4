@@ -33,17 +33,17 @@ namespace Assignment_3._1._4
             else if (x < 0 & y < 0)
 
             {
-                return "second";
+                return "third";
             }
 
             else if(x < 0 & y > 0)
             {
-                return "third";
+                return "fourth";
             }
 
             else if (x > 0 & y < 0)
             {
-                return "fourth";
+                return "second";
             }
             else
             {
